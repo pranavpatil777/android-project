@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">792120032462-bv2u4dupgnogr9ubulvoajgh5ov0bmj7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">792120032462</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRcPLDoyVs3c-cPyg9hm_2PcPW9EGl-GU</string>
+    <string name="google_app_id" translatable="false">1:792120032462:android:f27bea1fc5eafcedfae49f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRcPLDoyVs3c-cPyg9hm_2PcPW9EGl-GU</string>
+    <string name="google_storage_bucket" translatable="false">smart-gram-panchayat.appspot.com</string>
+    <string name="project_id" translatable="false">smart-gram-panchayat</string>
+</resources>

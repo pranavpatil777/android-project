@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983152035337",
+    "project_id": "grampanchayt-f0cfd",
+    "storage_bucket": "grampanchayt-f0cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983152035337:android:cc15d01c431a333bdc5ad8",
+        "android_client_info": {
+          "package_name": "com.tutorial.grampanchayt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFN9EpV8LTCGAj54xZbv6J-ReWocrbWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
